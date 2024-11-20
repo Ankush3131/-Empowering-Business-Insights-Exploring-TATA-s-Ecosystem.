@@ -44,4 +44,3 @@ This design reflects TATA’s commitment to transparency, innovation, and access
 
 
 
-What do you think of this design approach? Drop your thoughts below! 👇
